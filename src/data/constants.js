@@ -255,7 +255,7 @@ export const projects = [
     date: "Dec 2023 - Dec 2023",
     description:
       "Diary management MERN project is an all-in-one web application designed to streamline diary creation, storage, and access. Here's a concise overview",
-    image: "https://imgur.com/AvkHilg.png",
+    image: "https://imgur.com/RVBFmkN.png",
     tags: [
       "ReactJS",
       "MongoDB",
@@ -276,7 +276,7 @@ export const projects = [
     date: "Sep 2023 - Sep 2023",
     description:
       "This Task Management System is a web application developed using React.js for the frontend, Node.js with Express.js for the backend, and MongoDB for the database. The project incorporates user authentication with three roles: customer, employee, and general user.",
-    image: "https://imgur.com/eMWzNOr.png",
+    image: "https://imgur.com/FkwNfol.png",
     tags: ["ReactJS", "MongoDB", "ExpressJS", "nodeJS"],
     category: "web app",
     github: "https://github.com/Vijayarajvijay/Task-Manager-FE",
